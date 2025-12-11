@@ -1,16 +1,15 @@
-# responsiveui
+<img width="717" height="605" alt="resDashBoardForIpad" src="https://github.com/user-attachments/assets/9b704948-05ce-4410-9806-fa6a6994a84d" /><img width="467" height="222" alt="resDashBoardForWindows" src="https://github.com/user-attachments/assets/b1bc846f-35c9-4a6d-9eda-31b7f0481e2d" /><img width="1030" height="615" alt="resDashBoardForMobile" src="https://github.com/user-attachments/assets/b5be46af-fa6e-4f5f-b9b4-8f6a1ced1042" /># responsiveui
 
 Responsive Admin Dash Board using flutter framework
 
-## Getting Started
+## 🖼️ Screenshots
 
-This project is a starting point for a Flutter application.
+### Desktop View
+![Desktop Dashboard](Uploading resDashBoardForWindows.png)
 
-A few resources to get you started if this is your first Flutter project:
+### Tablet View
+![Tablet View](Uploading resDashBoardForIpad.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+### Mobile View
+![Mobile View](Uploading resDashBoardForMobile.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
